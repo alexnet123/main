@@ -2,6 +2,10 @@
 
 ### IT systems and Linux
 
+![Снимок экрана от 2022-12-07 23-34-13](https://user-images.githubusercontent.com/75438030/206289603-7bf1ec4d-0092-445f-888c-c4427131d79a.png)
+
+[Загрузить PDF](https://github.com/alexnet123/main/blob/main/IT%20systems%20and%20Linux.pdf)
+
 `Темы курса`
 
 1. Введение в DevOps
@@ -23,7 +27,3 @@
 17. Управление пользователями
 18. Производительность системы
 19. Производительность системы. Часть 2
-
-![Снимок экрана от 2022-12-07 23-34-13](https://user-images.githubusercontent.com/75438030/206289603-7bf1ec4d-0092-445f-888c-c4427131d79a.png)
-
-[Загрузить PDF](https://github.com/alexnet123/main/blob/main/IT%20systems%20and%20Linux.pdf)
