@@ -28,8 +28,11 @@
 18. Производительность системы
 19. Производительность системы. Часть 2
 
+### Network protocols and Bash.pdf
 
 ![Снимок экрана от 2022-12-19 18-31-30](https://user-images.githubusercontent.com/75438030/208461411-8c5dc46d-2b62-4985-b363-0a85390fc178.png)
+
+[Загрузить PDF](https://github.com/alexnet123/main/blob/main/Network%20protocols%20and%20Bash.pdf)
 
 `Темы курса`
 1. Сеть и сетевые протоколы
