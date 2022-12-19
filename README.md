@@ -1,6 +1,6 @@
 # main
 
-### IT systems and Linux
+### IT systems and Linux - (2022 4 апреля — 9 июня)
 
 ![Снимок экрана от 2022-12-07 23-34-13](https://user-images.githubusercontent.com/75438030/206289603-7bf1ec4d-0092-445f-888c-c4427131d79a.png)
 
@@ -28,7 +28,7 @@
 18. Производительность системы
 19. Производительность системы. Часть 2
 
-### Network protocols and Bash.pdf
+### Network protocols and Bash - (2022 22 июня — 24 августа)
 
 ![Снимок экрана от 2022-12-19 18-31-30](https://user-images.githubusercontent.com/75438030/208461411-8c5dc46d-2b62-4985-b363-0a85390fc178.png)
 
