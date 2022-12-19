@@ -83,7 +83,7 @@
 7. CI/CD
 8. GitLab
 
-### CCNA  
+### CCNA  (2016г)
 
 ![Снимок экрана от 2022-12-19 20-29-12](https://user-images.githubusercontent.com/75438030/208484736-e41860ff-055e-4cd2-98b6-6b9b174fc10f.png)
 
