@@ -88,7 +88,7 @@
 
 ![Снимок экрана от 2023-01-10 16-34-34](https://user-images.githubusercontent.com/75438030/211566091-e801e116-8442-46d3-b70a-a7fde3213ce7.png)
 
-[Загрузить PDF] (https://github.com/alexnet123/main/blob/main/Monitoring.pdf)
+[Загрузить PDF](https://github.com/alexnet123/main/blob/main/Monitoring.pdf)
 
 Мониторинг
 1. Системы мониторинга. Облачный мониторинг Яндекс.Облако
