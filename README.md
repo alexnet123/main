@@ -60,6 +60,7 @@
 4. Разбор вопросов и задач
 5. Разбор скриптов и написание своих скриптов. Linter. Shell check
 
+### Виртуализация, автоматизация и CI/CD (6 сентября — 26 октября)
 
 ![Снимок экрана от 2022-12-19 18-39-45](https://user-images.githubusercontent.com/75438030/208463289-c579dc87-fc14-451e-aa76-9f918bd415f3.png)
 
@@ -82,6 +83,28 @@
 6. Git
 7. CI/CD
 8. GitLab
+
+### Мониторинг и отказоустойчивость (1 ноября — 14 декабря)
+
+![Снимок экрана от 2023-01-10 16-34-34](https://user-images.githubusercontent.com/75438030/211566091-e801e116-8442-46d3-b70a-a7fde3213ce7.png)
+
+[Загрузить PDF] (https://github.com/alexnet123/main/blob/main/Monitoring.pdf)
+
+Мониторинг
+1. Системы мониторинга. Облачный мониторинг Яндекс.Облако
+2. Zabbix
+3. Zabbix. Часть 2
+4. Prometheus
+5. Prometheus. Часть 2
+
+Отказоустойчивость
+1. Keepalived/vrrp.
+2. Кластеризация
+3. Pacemaker
+4. Резервное копирование. Bacula
+5. Балансировка нагрузки. HAProxy/Nginx
+6. Disaster recovery
+7. Отказоустойчивость в облаке
 
 ### CCNA  (2016г)
 
